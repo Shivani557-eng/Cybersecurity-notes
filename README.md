@@ -3,7 +3,7 @@ My cybersecurity learning notes and resources
 
 
 ## About Me
-I am a cybersecurity learner from India focusing on SOC and defensive security.
+I am a cybersecurity learner from  focusing on SOC and defensive security.
 
 ## Skills
 - Networking basics
