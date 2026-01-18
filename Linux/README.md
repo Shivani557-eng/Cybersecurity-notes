@@ -7,3 +7,6 @@
 -mkdir
 -rmdir
 -cp
+-whoami
+-ipconfig
+
