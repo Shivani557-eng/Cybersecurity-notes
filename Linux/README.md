@@ -29,3 +29,6 @@
 
 -user account managment
 
+-changing permission directory
+
+
