@@ -10,3 +10,4 @@
 - Network components,types and connections
 - network media and IP addresing
 - Subnet mask
+- HTTP In detail(request and response,http method,http status code,headers,cookies and making request)
