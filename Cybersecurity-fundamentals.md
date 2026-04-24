@@ -4,12 +4,12 @@ Fundamental cybersecurity concepts — what cybersecurity is and why it’s impo
 Cyber threat landscape — different types of threats such as malware, phishing, ransomware, social engineering, etc.
 Cyber threat groups & attack methods — understanding threat actors and how attacks happen.
 
-##Risk & Defense Fundamentals
+## Risk & Defense Fundamentals
 Risk management basics and how organizations assess risk.
 Security controls and defense mechanisms — strong passwords, authentication (like multi-factor authentication), encryption, and device hardening.
 Identity & Access Management (IAM) — how systems identify users and control access.
 
-##Security Principles
+## Security Principles
 CIA and DAD
 fundamental concepts of Security Models
 Defense in Depth
